@@ -1,0 +1,19 @@
+.bb{
+    padding: 15px;
+    padding-left: 30px;
+    border: 1px solid black;
+    width: 210px;
+}
+.fb{
+    margin-left: 20px;
+}
+.fp{
+    margin-left: 30px;
+}
+.btn{
+    color: white;
+    background-color: skyblue;
+    border: 0% solid skyblue;
+    width: 180px;
+    height: 30px;
+}
